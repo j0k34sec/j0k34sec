@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/j0k34sec/j0k34sec/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/j0k34sec/j0k34sec/output/github-contribution-grid-snake.gif)
 
 ###
