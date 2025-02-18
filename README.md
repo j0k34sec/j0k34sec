@@ -74,3 +74,9 @@
 <img src="https://raw.githubusercontent.com/j0k34sec/j0k34sec/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/j0k34sec/count.svg?"  />
+</div>
+
+###
