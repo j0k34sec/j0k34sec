@@ -75,8 +75,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/j0k34sec/count.svg?"  />
-</div>
+
 
 ###
